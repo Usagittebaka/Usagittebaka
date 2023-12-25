@@ -3,6 +3,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">QA Engineer from Kazakhstan</h3>
 
+<h3 align="left">Currently studying CS50 Python for future python automation testing skillset. https://submit.cs50.io/users/Usagittebaka</h3>
 
 <h3 align="left">Tools:</h3>
 
